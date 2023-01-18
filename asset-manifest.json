@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Quencil-web/static/css/main.d79e45b8.css",
+    "main.js": "/Quencil-web/static/js/main.0401fcf6.js",
+    "static/js/787.017be324.chunk.js": "/Quencil-web/static/js/787.017be324.chunk.js",
+    "static/media/1.png": "/Quencil-web/static/media/1.546039177b4907f5017e.png",
+    "static/media/section-1-bg.png": "/Quencil-web/static/media/section-1-bg.2ee474c8b44aaaf43155.png",
+    "static/media/nav-logo-bg.png": "/Quencil-web/static/media/nav-logo-bg.28a813066dc0a2352492.png",
+    "index.html": "/Quencil-web/index.html",
+    "main.d79e45b8.css.map": "/Quencil-web/static/css/main.d79e45b8.css.map",
+    "main.0401fcf6.js.map": "/Quencil-web/static/js/main.0401fcf6.js.map",
+    "787.017be324.chunk.js.map": "/Quencil-web/static/js/787.017be324.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d79e45b8.css",
+    "static/js/main.0401fcf6.js"
+  ]
+}
