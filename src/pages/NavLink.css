@@ -1,0 +1,9 @@
+.navbar{background-color: black;
+color: white;
+}
+.nav-link{
+    color: white;
+}
+.navbar-nav{margin: auto;
+font-size: 14px;
+font-weight: 600;}
