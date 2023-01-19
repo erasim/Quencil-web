@@ -115,7 +115,7 @@ left: 5%;}
 	margin-top: 100px;
 }
 .founder-btn {
-	padding: 10px 30px;
+	
 	font-weight: 500;
 	margin: 1vw ;
 }
@@ -148,7 +148,7 @@ left: 5%;}
 }
 .whyjoin-heading p {
 	color: white;
-	font-size: 2vw;
+	font-size: 1vw;
 }
 .whyjoin-detail .founder-card {
 	width: 40%;
@@ -156,15 +156,15 @@ left: 5%;}
 .whyjoin-card-img {
 	width: 100%;
 	/* border: 10px solid white; */
-	border-radius: 10px;
+	
 }
 .whyjoin-card-body {
-	height: 100%;
+	/* height: 100%; */
 	margin-top: 50px;
 }
 .whyjoin-btn {
-	font-size: larger;
-	padding: 10px 30px;
+	/* font-size: larger; */
+	/* padding: 10px 30px; */
 	font-weight: 500;
 	margin: 20px;
 }
