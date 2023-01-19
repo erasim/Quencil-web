@@ -100,19 +100,22 @@ left: 5%;}
 }
 .founder-heading p {
 	color: white;
-	font-size: 2vw;
+	font-size: 1vw;
 }
 .founter-detail .founder-card {
 	width: 40%;
 }
 .founder-card-img {
-	width: 60%;
-	border: 10px solid white;
+	width: 50%;
+	border: 5px solid white;
 	border-radius: 10px;
 }
 .founder-card-body {
+	
 	height: 100%;
-	margin-top: 100px;
+	
+	top: 7%;
+    position: relative;
 }
 .founder-btn {
 	
@@ -196,7 +199,7 @@ left: 5%;}
 }
 .placement-heading p {
 	color: white;
-	font-size: 2vw;
+	font-size: 1vw;
 	
 }
 .placement-detail .founder-card {
@@ -262,7 +265,7 @@ left: 5%;}
 }
 .caseStudy-heading p {
 	color: white;
-	font-size: 2vw;
+	font-size: 1vw;
 }
 .caseStudy-img-div h5 {
 	color: white;
