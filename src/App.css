@@ -1,29 +1,43 @@
 .App {
 text-align: center;
+
 }
-.home-main{padding: 0px 20px; 
+ .home-main{padding: 0px 20px; 
 background-color: rgb(6, 6, 32);
 }
 .home-container{background-image: url(./images/section-1-bg.png);
-  background-size: 100%;
+  background-size: 100%;  
+}
+@media screen and (max-width: 500px) { 
 
+  .home-img{ width: 115%;;}
+
+
+
+}
+
+/*
+.home-sidebar{
+display: flex;
  
-  
-}
-.home-img img{}
-.home-sidebar{display: flex;}
-.home-div-1{
-  color: azure;
-  position: relative;
-  right: -256px;
-  top: 79px;
-}
-.home-div-1 h1{
+  text-align: center;}
+  .home-child1{ 
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;}
+    .home-child2{
+       display: inline-block;
+      padding: 1rem 1rem;
+      vertical-align: top;;}
+
+
+ .home-child2 h1{
   min-width: 300px;
     font-weight: 700;
     font-size: 2.0rem;
+    color: white;
 }
-.home-div-1 button{
+ .home-child2 button{
   border-radius: 20px;
     background: #2a2aa7;
     border: none;
@@ -31,21 +45,126 @@ background-color: rgb(6, 6, 32);
     font-weight: 600;
     padding: 7px 17px;
     margin-top: 20px;
+    color: white;
 
 }
-.home-div-1 button:hover{background-color:#0d0da8 ;}
+.home-div-1 button:hover{background-color:#0d0da8 ;} */
+
+
+.home-img{width: 45%;}
+
 .alumni-container{
-  margin: 5px;
   background-color: #0b0b44;
   color: aliceblue;
 
 }
+.alumni{ background-color:  rgb(6, 6, 32);
+  padding: 0px 20px}
 .alumni-box{ display: flex;
-justify-self: center;
+  justify-content: center;
+text-align: center;
 flex-wrap: wrap;}
 .alumni-container .card{
-  width: 18rem;
-  margin: 10px 20px;
+  width: 20rem;
+  margin: 15px;
   
 }
 .card img{width: 100%;}
+
+.founder-main{background-color:rgb(6, 6, 32);
+  padding:  0px 20px;}
+.founder-container{background-color: #0b0b44;
+}
+.founter-detail{display: inline-flex;
+border: 1px dotted white; margin: 20px;}
+.founder-heading{width: 60%;    text-align: initial;}
+.founder-container h1{color: white;
+padding: 20px;}
+.founder-heading p{color: white;
+  text-align: start;
+  margin-left: 20px;
+  font-size: 27px}
+  .founter-detail .founder-card{width: 40%;}
+  .founder-card-img{width: 18rem;}
+  .founder-card-body{height: 100%;
+  margin-top: 100px;}
+  .founder-btn{    font-size: larger;
+    padding: 10px 30px;
+    font-weight: 500;
+  margin: 20px;}
+  .founder-btn:hover{background-color: aqua;}
+
+
+
+  .whyjoin-main{background-color:rgb(6, 6, 32);
+    padding:  0px 20px;}
+  .whyjoin-container{background-color: #0b0b44;
+  }
+  .whyjoin-detail{display: inline-flex;
+  border: 1px dotted white; margin: 20px;}
+  .whyjoin-heading{width: 60%;    text-align: initial;}
+  .whyjoin-container h1{color: white;
+  padding: 20px;}
+  .whyjoin-heading p{color: white;
+    text-align: start;
+    margin-left: 20px;
+    font-size: 27px}
+    .whyjoin-detail .founder-card{width: 40%;}
+    .whyjoin-card-img{width: 60rem;}
+    .whyjoin-card-body{height: 100%;
+    margin-top: 50px;}
+    .whyjoin-btn{    font-size: larger;
+      padding: 10px 30px;
+      font-weight: 500;
+    margin: 20px;}
+    .whyjoin-btn:hover{background-color: aqua;}
+
+
+
+    .placement-main{background-color:rgb(6, 6, 32);
+      padding:  0px 20px;}
+    .placement-container{background-color: #0b0b44;
+    }
+    .placement-detail{display: inline-flex;
+    border: 1px dotted white; margin: 20px;}
+    .placement-heading{width: 60%;    text-align: initial;}
+    .placement-container h1{color: white;
+    padding: 20px;}
+    .placement-heading p{color: white;
+      text-align: start;
+      margin-left: 20px;
+      font-size: 27px}
+      .placement-detail .founder-card{width: 40%;}
+      .placement-card-img{width: 18rem;}
+      .placement-card-body{height: 100%;
+      margin-top: 100px;}
+      .placement-btn{    font-size: larger;
+        padding: 10px 30px;
+        font-weight: 500;
+      margin: 20px;}
+      .placement-btn:hover{background-color: aqua;}
+
+
+      .caseStudy-main{width: 100%; background-color:rgb(6, 6, 32);
+        padding:  0px 20px;}
+      .caseStudy-main img{width: 100%; }
+ 
+
+      .caseStudy-main{background-color:rgb(6, 6, 32);
+        padding:  0px 20px;}
+        .caseStudy-container{display: flex;
+          flex-wrap: wrap;
+          justify-content: center; background-color: #0b0b44;
+      }
+        .caseStudy-img-div{width: 250px; 
+          margin: 20px 150px; border-radius: 10px;
+          justify-content: center;}
+        .caseStudy-img{width: 100%; height: 80%; border-radius: 10px; }
+        .caseStudy-heading{width: 60%;    text-align: initial;}
+        .caseStudy-heading h1{color: white;
+        padding: 20px;}
+        .caseStudy-heading p{color: white;
+          text-align: start;
+          margin-left: 20px;
+          font-size: 27px}
+          .caseStudy-img-div h5{color: white; margin: 20px;}
