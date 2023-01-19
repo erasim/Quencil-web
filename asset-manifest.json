@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Quencil-web/static/css/main.a2232916.css",
-    "main.js": "/Quencil-web/static/js/main.d60eb5a3.js",
-    "static/js/787.017be324.chunk.js": "/Quencil-web/static/js/787.017be324.chunk.js",
-    "static/media/2.jpg": "/Quencil-web/static/media/2.a0086bc08d64d31b371f.jpg",
-    "static/media/4.jpg": "/Quencil-web/static/media/4.1520e3f2bc4e702dd210.jpg",
-    "static/media/6.jpg": "/Quencil-web/static/media/6.26e2aba44033ed504276.jpg",
-    "static/media/5.jpg": "/Quencil-web/static/media/5.5eb2b3ecfc7865170814.jpg",
-    "static/media/3.jpg": "/Quencil-web/static/media/3.de86d7b30cd275e69c26.jpg",
-    "static/media/1.png": "/Quencil-web/static/media/1.546039177b4907f5017e.png",
-    "static/media/7.png": "/Quencil-web/static/media/7.aad363a0a041759838a7.png",
-    "static/media/section-1-bg.png": "/Quencil-web/static/media/section-1-bg.2ee474c8b44aaaf43155.png",
-    "static/media/nav-logo-bg.png": "/Quencil-web/static/media/nav-logo-bg.28a813066dc0a2352492.png",
-    "index.html": "/Quencil-web/index.html",
-    "main.a2232916.css.map": "/Quencil-web/static/css/main.a2232916.css.map",
-    "main.d60eb5a3.js.map": "/Quencil-web/static/js/main.d60eb5a3.js.map",
-    "787.017be324.chunk.js.map": "/Quencil-web/static/js/787.017be324.chunk.js.map"
+    "main.css": "/static/css/main.2d93d20f.css",
+    "main.js": "/static/js/main.a4fb0c54.js",
+    "static/js/787.017be324.chunk.js": "/static/js/787.017be324.chunk.js",
+    "static/media/2.jpg": "/static/media/2.a0086bc08d64d31b371f.jpg",
+    "static/media/4.jpg": "/static/media/4.1520e3f2bc4e702dd210.jpg",
+    "static/media/6.jpg": "/static/media/6.26e2aba44033ed504276.jpg",
+    "static/media/5.jpg": "/static/media/5.5eb2b3ecfc7865170814.jpg",
+    "static/media/3.jpg": "/static/media/3.de86d7b30cd275e69c26.jpg",
+    "static/media/1.png": "/static/media/1.546039177b4907f5017e.png",
+    "static/media/7.png": "/static/media/7.aad363a0a041759838a7.png",
+    "static/media/section-1-bg.png": "/static/media/section-1-bg.2ee474c8b44aaaf43155.png",
+    "static/media/nav-logo-bg.png": "/static/media/nav-logo-bg.28a813066dc0a2352492.png",
+    "index.html": "/index.html",
+    "main.2d93d20f.css.map": "/static/css/main.2d93d20f.css.map",
+    "main.a4fb0c54.js.map": "/static/js/main.a4fb0c54.js.map",
+    "787.017be324.chunk.js.map": "/static/js/787.017be324.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2232916.css",
-    "static/js/main.d60eb5a3.js"
+    "static/css/main.2d93d20f.css",
+    "static/js/main.a4fb0c54.js"
   ]
 }
