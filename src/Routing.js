@@ -22,6 +22,7 @@ function Routing() {
           <Route path="/tech-course" element={<TechCourse/>} />
           <Route path="/non-tech-course" element={<NonTechCourse/>} />
           </Routes>
+  
 
 </div>
    

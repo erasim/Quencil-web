@@ -4,9 +4,7 @@ function Placement() {
   return (
     <div className='placement-main'>
     <div className='placement-container'>
-        <div className='placement-h1'>
-
-</div>
+   
 
 
 <div className='placement-detail'>

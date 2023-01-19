@@ -15,7 +15,7 @@ function Alumi() {
       },[]);
 	return (
 	
-    <div className="alumni">
+    <div className="alumni-main">
 			<div className='alumni-container'>
 			<h1>Our Alumi Work in Top Companies</h1>
             <div className="alumni-box">
@@ -25,7 +25,7 @@ function Alumi() {
         i < 10 ? ( <div className="card" >
         <div className="card-body">
           <img src={item.avatar_url} alt='use-pic' />
-          <h4 className="card-subtitle mb-2 text-muted">{item.login}</h4>
+          <h4 className="alumni-name">{item.login}</h4>
          
          
          

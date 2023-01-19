@@ -15,7 +15,7 @@ function NavLink() {
       <Navbar.Toggle aria-controls='responsive-navbar-nav' />
       <Navbar.Collapse id='responsive-navbar-nav'>
         <Nav className='me-auto'>
-          <Nav.Link href='/'>HOME</Nav.Link>
+          <Nav.Link href='/Quencil'>HOME</Nav.Link>
           <Nav.Link href='career'>CAREER CAMP</Nav.Link>
           <NavDropdown title='TECHNICAL COURSES' id='collasible-nav-dropdown'>
             <NavDropdown.Item href='#action/3.1'>Action</NavDropdown.Item>

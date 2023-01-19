@@ -21,7 +21,7 @@ function Whyjoin() {
 </div>
 <div className="whyjoin-card" >
     <div className="whyjoin-card-body">
-      {/* <img src={WhyjoinPic} alt='use-pic' className='whyjoin-card-img' /> */}
+      <img src={WhyjoinPic} alt='use-pic' className='whyjoin-card-img' />
   
      
      

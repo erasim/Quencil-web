@@ -23,7 +23,7 @@ function Founder() {
 </div>
 <div className="founder-card" >
         <div className="founder-card-body">
-          {/* <img src={founderPic} alt='use-pic' className='founder-card-img' /> */}
+          <img src={founderPic} alt='use-pic' className='founder-card-img' />
          
          
          

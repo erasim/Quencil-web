@@ -25,10 +25,10 @@ function Home() {
       </div>
       </div> 
     </div>
-    <Whyjoin/>
-    <CaseStudy/>
-    <Placement/>
-    <Alumi/>
+     <Whyjoin/>
+   <CaseStudy/>
+   <Placement/> 
+    <Alumi/> 
     <Founder/>
     
     

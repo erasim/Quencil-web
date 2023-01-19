@@ -7,6 +7,7 @@ import devlopment from '../images/6.jpg'
 
 function CaseStudy() {
   return (
+    <div className='caseStudy'>
     <div className='caseStudy-main'>
         <div className='caseStudy-heading'>
 <h1>Case Studies & Projects</h1>
@@ -37,6 +38,7 @@ function CaseStudy() {
             </div>
           
         </div>
+    </div>
     </div>
   )
 }
